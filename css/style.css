@@ -1,0 +1,59 @@
+body{
+	background-color: teal;
+	background-size:100% 100%;
+	font-family:"Century Gothic";
+	background-attachment: fixed;
+}
+.first{
+	color: black;
+	text-shadow: 1px 1px gray;
+	padding: 20px 20px 20px 20px;
+	background-color: white;
+	margin: 20px 20px 20px 20px;
+	background-size:100% 120%;
+	background-attachment: fixed;
+	 font-weight: bold;
+}
+.Second{
+	color: black;
+	text-shadow: 1px 1px gray;
+	padding: 20px 20px 20px 20px;
+	background-color: white;
+	margin: 20px 20px 20px 20px;
+	background-size:100% 120%;
+	background-attachment: fixed;
+	 font-weight: bold;
+
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+    background-color: #4CAF50;
+    color: white;
+}
+form{
+	color: black;
+	padding: 20px 1000px 20px 20px;
+	text-align: center;
+	background-color: teal;
+	margin: 20px 20px 20px 20px;
+	background-size:100% 120%;
+	background-attachment: fixed;
+	text-shadow: 1px 1px gray;
+	 font-weight: bold;
+}
+.WELCOME{
+	color: black;
+}
+p{
+	text-align: center;
+	text-shadow: 1px 1px gray;
+}
+
+
+
+

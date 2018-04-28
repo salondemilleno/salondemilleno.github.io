@@ -1,0 +1,186 @@
+
+header
+{
+	background-image:url(images/ching.jpg);
+	height: 20vh;
+	background-size: cover;
+	background-position: center;
+	display: block;
+}
+h1{ font-size: 1.7em; }
+h2{ font-size: 1.5em; }
+
+body{
+    background-color: white;
+}
+
+#nav{
+
+		
+}
+	
+#nav ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: black;
+		}
+	
+			
+		#nav ul li{
+			float:left;
+		}
+			#nav ul li a 
+			{
+				 display: block;
+				color: pink;
+				text-align: center;
+				padding: 15px 74px;
+				text-decoration: none;
+			}
+			
+			#nav ul li a:hover{
+				background-color: deeppink;
+				color: black;
+				
+			}
+			
+
+#button
+a:link, a:visited {
+    background-color: deeppink;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	
+}
+#button  a:hover{
+				background-color: black;
+				color:lightpink;
+				
+			}
+
+
+a:hover, a:active {
+    background-color: purple;
+}
+#submit
+a:link, a:visited {
+    background-color: deeppink;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	
+}
+
+
+a:hover, a:active {
+    background-color: purple;
+}
+
+
+
+	#offers{
+	margin-top: 50px;
+	margin-left: 300px;
+	background: black;
+	color: pink;
+	width: 60%;
+	height: 30%;
+	opacity: 0.8;
+}
+.Reservation{
+background:#333;
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-left: 350px;
+	color: pink;
+	width: 40%;
+	height: 70%;
+	opacity: 0.8;
+	text-indent: 50px;
+
+}
+.REBONDING{
+	background:#333;
+	border-radius: 10px;
+	color: pink;
+	padding: 5px .9% ;
+	float: left;
+	margin: 10px    ;
+	width: 30%;
+	opacity:0.8;
+
+}	
+
+.product{
+	background:#333;
+	border-radius: 15px;
+	color: pink;
+	padding: 5px .9% ;
+	float: left;
+	margin-left:500px;
+	width: 30%;
+	opacity:0.8;
+
+}	
+	#signup{
+	
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-left: 300px;
+	color: pink;
+	width: 60%;
+	height: 30%;
+	opacity: 0.8;
+}
+#story{
+	background:#333;
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-left: 300px;
+	color: black;
+	width: 60%;
+	height: 30%;
+	opacity: 0.8;
+	text-indent: 50px;
+}
+#homie
+ {
+    text-indent: 50px;
+    color: black;
+
+}
+#contact{
+	background:#333;
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-left: 300px;
+	color: pink;
+	width: 60%;
+	height: 30%;
+	opacity: 0.8;
+	
+}
+
+
+.image hover{
+	
+}
+
+.footer {
+    padding: 5px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: deeppink;
+    color: white;
+    text-align: center;
+}
+
+
